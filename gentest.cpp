@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
@@ -23,4 +24,5 @@ int main(){
         cout << test[i][0] << ' ' << test[i][1] << endl;
     }
 }
+
 
